@@ -1,3 +1,3 @@
-# API test
+# API test (2020)
 
-just a test using an API that i recently discovered
+I'm just testing an API that i recently discovered
